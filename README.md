@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me
 
-<!--
-**notskilledd/notskilledd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently working
+Now I`m doing some laboratory for my course on Python and Assambler GAS language.
 
-Here are some ideas to get you started:
+## I’m currently learning
+Python, Assambler GAS, Git and Github. Also want learn C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Knowledge
+Basic Python, C. I know a little bit of Assambler GAS. For programming use VSC or PyCharm, work in Debian. 
+Learning higher mathematics: mathematical analysis, analytical geometry, linear algebra, discrete mathematics.
+
+## Some facts about me
+I am 18 years old, in my spare time I read, play table tennis or study something.
